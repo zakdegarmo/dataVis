@@ -1,0 +1,6 @@
+{
+  "name": "3D Data Visualizer",
+  "description": "An interactive web application to visualize any text-based data file in 3D. Represents each character as an object and arranges them in selectable geometric forms, including an animated, interactive Torus Klein Knot. Features data-driven coloring and high-performance rendering.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
