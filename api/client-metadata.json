@@ -1,0 +1,10 @@
+{
+  "client_id": "https://www.bootstrapAT.app/client-metadata.json",
+  "client_name": "bootstrapAT",
+  "client_uri": "https://www.bootstrapAT.app",
+  "logo_uri": "https://www.bootstrapAT.app/logo.png",
+  "scope": "com.atproto.access",
+  "redirect_uris": [
+    "https://www.bootstrapAT.app/callback"
+  ]
+}
